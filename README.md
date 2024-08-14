@@ -1,16 +1,15 @@
-## Hi there 👋
+## Welcome to my profile 💛
 
-<!--
-**wdcatster666/wdcatster666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Name's W. D. Catster, but you can just call me by Catster
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I have a [YouTube](https://youtube.com/@wdcatster?si=VmAv75Lzxf_1rHos) channel focused on Undertale ❤️
+- I'm Brazilian 🇧🇷
+- I'm currently on a basic programming course 🖥️
+- This profile will be focused on the content from my course 🧠
+- I'm not a good programmer, so don't expect anything great 😐
+
+If you want to DM me on [Discord](https://discord.com/), my tag is "wdgaster666"
+
+
+![](https://media.tenor.com/8WQillu5t9UAAAAM/gaster-undertale.gif)
