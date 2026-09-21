@@ -1,12 +1,22 @@
-## Welcome to my profile 💛
+## Catster's Profile
 
 ![](https://media1.tenor.com/m/FYe-hDHfcfkAAAAC/xtale-xgaster.gif)
 
-Name's W. D. Catster, but you can just call me by Catster
+Howdy! I'm wdcatster666, or just Catster 👋
 
 
-- I have a [YouTube](https://youtube.com/@wdcatster?si=VmAv75Lzxf_1rHos) channel focused on Undertale and Deltarune ❤️
-- I'm Brazilian 🇧🇷
-- I'm currently studying software development at college 🖥️
+### About me
 
-If you want to DM me on [Discord](https://discord.com/), my tag is "wdgaster666"
+![](https://media1.tenor.com/m/Dj6Kko34mUkAAAAd/xtale-xgaster.gif)
+
+I'm currently studying Multiplatform Software Development at college, I've learned many things there, including a lot of programming languages, such as:
+
+- HTML
+- CSS
+- JavaScript
+- Java
+- MySQL
+- PHP
+- C#
+
+But by far, my favorite one so far is JavaScript, I just love creating functions that make the website work in an unique way! Back-end is definitely my favorite part of coding, and I'm excited to learn more about it!
